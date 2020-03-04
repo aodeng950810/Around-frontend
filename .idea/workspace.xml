@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0562de67-fb2f-4a14-be5d-d49caa3fdb88" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/around-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/blue-marker.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AroundMap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AroundMarker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CreatePostButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CreatePostForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Gallery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Register.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Topbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/AroundMarker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/Gallery.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/Home.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/Main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/Register.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/Topbar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/setupTests.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1WdWkwwsRVS6gSsePBOlJnR0pOi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Around-web\around-web\src\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Around-web\around-web\src" />
+      <recent name="D:\Around-web\around-web\src\tests" />
+      <recent name="D:\Around-web\around-web\src\components" />
+      <recent name="D:\Around-web\around-web\src\styles" />
+      <recent name="D:\Around-web\around-web\src\assets" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0562de67-fb2f-4a14-be5d-d49caa3fdb88" name="Default Changelist" comment="" />
+      <created>1579480098611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579480098611</updated>
+      <workItem from="1579480100724" duration="733000" />
+      <workItem from="1579482738053" duration="81000" />
+      <workItem from="1579576308387" duration="7951000" />
+      <workItem from="1579748644214" duration="10467000" />
+      <workItem from="1580179855117" duration="10997000" />
+      <workItem from="1580352930208" duration="8896000" />
+      <workItem from="1580362019722" duration="1083000" />
+      <workItem from="1580785186426" duration="9393000" />
+      <workItem from="1580957623985" duration="8353000" />
+      <workItem from="1581286429501" duration="311000" />
+      <workItem from="1581899470361" duration="731000" />
+      <workItem from="1582341261347" duration="253000" />
+      <workItem from="1582915466844" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="578" y="83" key="SettingsEditor" timestamp="1579480506024">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="578" y="83" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579480506024" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582915467262">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582915467262" />
+    <state x="669" y="117" key="new project wizard" timestamp="1581286562652">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="117" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1581286562652" />
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup" timestamp="1579754846988">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="230" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579754846988" />
+  </component>
+</project>
